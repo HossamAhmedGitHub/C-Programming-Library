@@ -16,3 +16,5 @@ char endian()
     if(*test_ptr == 1) return BIG_ENDIAN;
     else return LITTLE_ENDIAN;
 }
+
+
